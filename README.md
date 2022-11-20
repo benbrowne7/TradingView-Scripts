@@ -7,3 +7,4 @@ indicator scripts and trading systems written in PineScript
 - Plots lines 1/2/3 standard deviations from this calculated mean to find high probability zones of 'peak price velocity' 
 - Not meant as a price reversal indicator (price can simply stall for x days to reset to 0)
 - Hitting of the 3std line is rare and may indicate a capitulation of price depending on context
+- Tuned for Bitcoin Specifically
